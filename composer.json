@@ -1,0 +1,6 @@
+{
+    "name": "guzzle/fulfilled-wait-test",
+    "require": {
+        "guzzlehttp/promises": "^1.4"
+    }
+}
